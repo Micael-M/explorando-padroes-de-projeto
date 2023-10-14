@@ -1,4 +1,4 @@
-package padraodeprojeto.gof;
+package padraodeprojeto;
 
 /**
  *  Singleton 'preguiçoso'
